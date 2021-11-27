@@ -1,9 +1,21 @@
 header{
 	background-color: pink;
 	text-align: center;
+	color: black;
 
 }
 section{
-	background: blue;
+	background: #92fd70;
 	text-align: center;
+	color: brown;
+}
+body{
+
+			background-color: purple;
+			border-radius: 5px;
+			color: white;
+			font-family: sans-serif;
+			margin: 10px;
+			padding: 4px;
+			text-align: center;
 }
